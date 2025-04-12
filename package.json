@@ -4,7 +4,7 @@
   "description": "Implementação do tabnews.com.br no curso.dev para fins de aprendizagem.",
   "main": "index.js",
   "scripts": {
-    "dev" : "next dev"
+    "dev": "next dev"
   },
   "author": "Marilia Gabriela de Quadros",
   "license": "MIT",
